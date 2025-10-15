@@ -1,0 +1,178 @@
+body{
+background-image: url('game_banner.jpg');
+background-repeat: no-repeat;
+background-position: fixed;
+padding: 0px 0px 0px 0px;
+font-family: 'Advent Pro', sans-serif;
+font-size: 2vw;
+padding-top: 0px;
+}
+
+.navbar{
+font-family: 'Advent Pro', sans-serif;
+background: rgba(255, 255, 255, .5);
+position: fixed;
+top: 0;
+left:0;
+width: 100%;
+padding-top: 2vh;
+padding-bottom: 2vh;
+}
+
+.fs{
+margin-left: 12vw;
+margin-right: 12vw;
+}
+
+.navbar a{
+color: #92140C;
+display: inline-block;
+font-size: 2.4vw;
+text-decoration: none;
+margin-left: 20px;
+margin-right: 7px;
+}
+
+.navbar a:hover{
+color: #BD1B0F;
+}
+
+.sec{
+background-color: black;
+display: inline-block;
+position: absolute;
+border: 3px black solid;
+height: 38px;
+
+border-radius: 15px;
+}
+
+.foot{
+font-family: 'Advent Pro', sans-serif;
+text-align: center;
+font-size: 3.5vh;
+color:#92140C;
+background: rgba(255, 255, 255, .5);
+padding-top: 0.2vh;
+padding-bottom: 0.2vh;
+position: fixed;
+left:0;
+bottom: 0;
+width: 100%;
+}
+
+.foot a{
+color: #235789;
+
+
+}
+
+.quad img{
+height: 10vh;
+margin-bottom:2px;
+margin-left: 1vw;
+}
+
+.quad{
+margin-bottom: 5px;
+padding-left: 11vw;
+}
+
+.tre{
+background-color: white;
+padding-top: 2.5vh;
+width: 66.66vw;
+margin-left: 11vw;
+padding-left: 5vw;
+padding-right: 5vw;
+padding-bottom: 8vh;
+border-radius: 15px;
+margin-bottom: 5px;
+margin-top: 5px;
+color:black;
+}
+
+.tre3{
+background-color: white;
+padding-top: 3vh;
+width: 66.66vw;
+margin-left: 11vw;
+padding-left: 5vw;
+padding-right: 5vw;
+padding-bottom: 3vh;
+border-radius: 15px;
+margin-bottom: 5px;
+margin-top: 5px;
+text-align: center;
+}
+
+.tre2{
+background-color: white;
+padding-top: 2.5vh;
+width: 66.66vw;
+margin-left: 11vw;
+padding-left: 5vw;
+padding-right: 5vw;
+padding-bottom: 1vh;
+border-radius: 15px;
+margin-bottom: 5px;
+margin-top: 5px;
+color:#92140C;
+}
+
+
+.wrapper{
+padding-top:10vh;
+padding-bottom:12vh;;
+width: 100vw;
+height: 100%;
+
+
+}
+
+
+.quest{
+margin-left: 20vh;
+
+}
+.quest img{
+border-radius: 15px;
+border: 3px black solid;
+display: inline;
+float: right;
+}
+
+
+.quest2{
+display: inline;
+float: left;
+margin-right: 10px;
+}
+
+
+.quest2 img{
+border-radius: 15px;
+border: 3px black solid;
+}
+
+
+
+
+button{
+border-radius: 4px;
+font-size: 1.5vw;
+font-family: 'Advent Pro', sans-serif;
+border: 2px solid black;
+color: black;
+background: lightgray;
+cursor: pointer;
+margin-bottom: 5px;
+}
+
+button:hover{
+background: darkgray;
+
+}
+
+
+
